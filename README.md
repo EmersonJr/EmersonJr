@@ -7,7 +7,7 @@ class Emerson_Junior(Na_Base_do_O(u)):
   def __init__(self):
     super.__init__()
     self._name: "Emerson Luiz Cruz Junior"
-    self._age: 18
+    self._age: 19
     self._university: "University of Brasilia - UnB"
     self._undergraduation: "Computer Science"
     self._location: "Brasilia, Brazil 🇧🇷"
